@@ -1,4 +1,5 @@
 # Amy.vim colorscheme
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/awinecki/amy-vim-coloscheme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A colorscheme based on 'amy' sublime text 2 color theme.
 
